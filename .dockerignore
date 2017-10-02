@@ -1,5 +1,9 @@
+Dockerfile
 .git
 **/bower_components
 **/dist
 **/node_modules
 **/tmp
+.editorconfig
+.gitignore
+.travis.yml
